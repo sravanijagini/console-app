@@ -1,0 +1,41 @@
+{
+  "name": "xapp",
+  "version": "1.0.0",
+  "description": "mean,median,etc..of the data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sravani jagini",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "babar": "^0.1.0",
+    "bcryptjs": "*",
+    "better-console": "^1.0.0",
+    "body-parser": "*",
+    "cli-chart": "^0.3.1",
+    "connect-flash": "*",
+    "console.table": "^0.8.0",
+    "cookie-parser": "^1.4.1",
+    "d3-node": "^1.0.3",
+    "d3node-linechart": "0.0.7",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongodb": "*",
+    "mongojs": "^2.4.0",
+    "mongoose": "*",
+    "node-datetime": "^1.0.1",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "plotly": "^1.0.6",
+    "prompt": "^1.0.0",
+    "stats-lite": "^2.0.4"
+  }
+}
